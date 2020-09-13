@@ -26,7 +26,7 @@ print(range(5, 10))
 
 print(range(0, 10, 3))
 
-a = ['Mary', 'had', 'a', 'little', 'lamb']
+a = ['Mary', 'had', 'a', 'little', 'lamb', 'it''s', 'fleece', 'was', 'white', 'as', 'snow' ]
 for i in range(len(a)):
     print (i, a[i])
 
