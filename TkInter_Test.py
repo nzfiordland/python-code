@@ -4,7 +4,7 @@ window = Tk()
  
 window.title("Welcome")
  
-window.geometry('350x200')
+window.geometry('350x350')
  
 lbl = Label(window, text="Hello")
  
