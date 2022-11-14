@@ -7,7 +7,7 @@ randomNumber = random.randrange(1000) + 1
 
 total = die1 + die2
 
-print (sorted([4,2,7,4,2,8,6,9,8,3,4,7]))
+print (sorted([4,2,7,4,2,8,6,9,8,6,4,7]))
 
 def fib(n):    # write Fibonacci series up to n
     """Print a Fibonacci series up to n."""
