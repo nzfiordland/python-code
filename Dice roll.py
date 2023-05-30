@@ -1,3 +1,4 @@
+# this is a comment
 import random
 min = 1
 max = 6
